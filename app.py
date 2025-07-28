@@ -3,7 +3,7 @@ from business import get_data
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
-    return 'Hello, Welcome to CICD pipeline -##Jenkins'
+    return 'Hello, CICD pipeline'
 
 @app.route('/api', methods=['GET'])
 def api():
