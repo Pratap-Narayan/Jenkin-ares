@@ -1,6 +1,1 @@
-narayan
-sumit
-aris
-alias
-john
-welcome
+"Welcome to Jenkins-CICD"
